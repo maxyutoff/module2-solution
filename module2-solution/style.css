@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: sans-serif;
+  font-family: Verdana;
   font-size: 100%;
 }
 
@@ -33,7 +33,7 @@ h1 {
   clear: margin;
   position: relative;
   color: black;
-  background-color: #999191;
+  background-color: #ffa500 ;
   padding: 10px;
   padding-top: 45px;
   font-size: 100%;
